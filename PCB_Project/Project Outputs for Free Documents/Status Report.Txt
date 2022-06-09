@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:10:03 On 09.06.2022
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [mcp.PcbDoc]
+   Generated File[mcp_Legend_Top.gbr]
+   Generated File[mcp_Paste_Top.gbr]
+   Generated File[mcp_Soldermask_Top.gbr]
+   Generated File[mcp_Copper_Signal_Top.gbr]
+   Generated File[mcp_Copper_Signal_Bot.gbr]
+   Generated File[mcp_Soldermask_Bot.gbr]
+   Generated File[mcp_Paste_Bot.gbr]
+   Generated File[mcp_Legend_Bot.gbr]
+   Generated File[mcp_Board.gbr]
+   Generated File[mcp.EXTREP]
+   Generated File[mcp.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 22:10:04 On 09.06.2022

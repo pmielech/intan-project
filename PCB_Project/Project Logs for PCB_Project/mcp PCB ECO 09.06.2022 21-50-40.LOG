@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R1 Old Comment=1,74 kOhm New Comment=1,74 k?
+Change Component Comment : Designator=C2 Old Comment=10000 pF   New Comment=10000 pF
+Change Component Comment : Designator=L1 Old Comment=COIL0608-0.0047 New Comment=4.7uH
+Added Room: Name=mcp
