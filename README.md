@@ -1,0 +1,2 @@
+# intan-project
+Układ wykorzystujący Energy Harvesting przeznaczony do zasilania urządzeń o małym zapotrzebowaniu energetycznym. Urządzenie pobiera energię z otoczenia dzięki różnicy temperatur pomiędzy źródłem ciepła a blokiem chłodzenia wodnego. Zasilacz jest w stanie przekształcić bardzo niskie wejściowe napięcie, na napięcie nadające się do użytku w prostych zastosowaniach. Przekształtnik podwyższający napięcie DC/DC zbudowany jest w oparciu o układ MCP1643.
